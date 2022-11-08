@@ -3,7 +3,7 @@
 
 # Exercise:
 
-1. Fork this repo
+1. Fork this repo and name it `tuwaiq-flutter-hw-2`
 
 2. Clone it to your device
 
