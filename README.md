@@ -9,7 +9,7 @@
 
 3. Go to the repo directory
 
-4. Create a new branch called `<your-first-name>`
+4. Create a new branch called `<your-first-name>` and check it out
 
 5. Create a new file called `your-name.dart`
 
